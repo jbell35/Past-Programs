@@ -1,0 +1,10 @@
+Morris          92
+Rogers          89
+Reed            62
+Cook            77
+Morgan          88
+Smith           49
+Johnson         86
+Williams        50
+Jones           97
+Brown           79

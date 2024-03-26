@@ -1,0 +1,9 @@
+The average is 76.9
+The student above average are as follows: 
+	Morris		92
+	Rogers		89
+	Cook		77
+	Morgan		88
+	Johnson		86
+	Jones		97
+	Brown		79
